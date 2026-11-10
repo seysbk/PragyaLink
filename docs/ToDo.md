@@ -61,14 +61,14 @@ Status legend:
 
 ## Repository and setup
 
-- [ ] Establish GitHub repository.
-- [ ] Create frontend application.
-- [ ] Create Django backend application.
-- [ ] Configure environment variables.
-- [ ] Configure PostgreSQL.
-- [ ] Establish local development workflow.
-- [ ] Configure Git ignore rules.
-- [ ] Establish README documentation.
+- [x] Establish GitHub repository.
+- [x] Create frontend application.
+- [x] Create Django backend application.
+- [x] Configure environment variables.
+- [x] Configure PostgreSQL.
+- [x] Establish local development workflow.
+- [x] Configure Git ignore rules.
+- [x] Establish README documentation.
 
 ## Backend foundation
 
